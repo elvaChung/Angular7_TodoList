@@ -1,7 +1,7 @@
-# AngularCrashTodolist
+# AngularCrashTodolist(Link: https://githubfinder1004.netlify.app/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
-Link: https://githubfinder1004.netlify.app/
+
 
 ## Development server
 
